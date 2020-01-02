@@ -23,17 +23,11 @@ By participating in the Pilot you confirm that you are not breaking any laws, st
 
 To be eligible for the participation and Pilot compensation, you need to:
 
--   fill in the Pilot questionnaire ([https://mysteriumnetwork.typeform.com/to/Z4rbwr](https://mysteriumnetwork.typeform.com/to/Z4rbwr)) and provide us with a valid email address that will be needed for:
+-   Create an account on my.mysterium.network where you will have to provide: 
     
 
-	-   to confirm your participation in the Pilot;
-	    
-	-   to contact you should anything go wrong with your payment. Failure to do so will result in our inability to pay you once we start the program if we can’t reach you;
-	    
-	-   to reach out to you to get more information about software performance;
-    
+	-   A valid email address - to contact you should anything go wrong with your payment. Failure to do so will result in our inability to pay you once we start the program if we can’t reach you;
 
--   get an invitation and email confirmation from us that you are approved for Pilot program;
     
 -   be able to download and install node runner software. Although we offer discretionary support, we are not responsible for any issues with your installation during the Pilot;
     
@@ -64,7 +58,7 @@ We will pay $0.07 worth of ETH per hour of your availability for sharing your ba
 
 In order to receive a reward you have to meet the following criteria:
 
--   Accumulated minimum $5 of balance the current month. The balance that did not reach this limit is transferable to the next month.
+-   Accumulated minimum $5 of balance the current month. 
     
 -   5Mbps upload speed dedicated to the node
     
